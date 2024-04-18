@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hello 👋
+I'm Tim, a developer exploring what technology and creativity can do to change the world around me. I know just enough to be dangerous 😄. Welcome to my GitHub profile!
 
-<!--
-**Sarobii/Sarobii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently
+🛠️ I'm workshopping ideas for a fun new project. Have any cool suggestions? Please feel free to reach out!
+🐍 I'm currently diving into Python, uncovering its endless possibilities and refining my skills.
 
-Here are some ideas to get you started:
+💼 Skills
+Here are some technologies and tools I'm proficient in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Python
+JavaScript
+HTML/CSS
+Git
+
+🌱 Learning Journey
+Constantly learning and growing! Currently, I'm focused on:
+
+Mastering algorithms and data structures
+Exploring Python
+
+<!--Exploring machine learning concepts
+Improving my web development skills with React.js
 -->
+📚 Projects
+Check out some of my recent projects:
+
+This section is incoming. Narrowing down a fun project idea is a learning process in itself.
+
+📫 Let's Connect!
+LinkedIn: [LinkedIn](www.linkedin.com/in/tim-crow-537716a8)
+Twitter: [Twitter](https://twitter.com/sarobii21_c) 
+Email: [Email](mailto:tcrow1985@gmail.com)
+Feel free to connect or reach out for collaborations, discussions, or just to say hello! Let's build something amazing together. 😊
+
+🌟 Fun Fact
+When I'm not coding, you'll likely find me hiking in the great outdoors or planning my next travel adventure with my family. My two boys, ages 3 and 5, are my fearless companions, always ready to explore the world with boundless curiosity and enthusiasm. They believe every day is an adventure waiting to unfold, and they remind me that the greatest adventures often begin right in our own backyard!

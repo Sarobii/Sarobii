@@ -2,15 +2,15 @@
 I'm Tim, a developer exploring what technology and creativity can do to change the world around me. I know just enough to be dangerous 😄. Welcome to my GitHub profile!
 
 🚀 Currently
-🛠️ I'm workshopping ideas for a fun new project. Have any cool suggestions? Please feel free to reach out!
+🛠️ I'm workshopping ideas for a fun new project. If you have any cool suggestions, please feel free to reach out!
 🐍 I'm currently diving into Python, uncovering its endless possibilities and refining my skills.
 
 💼 Skills
 Here are some technologies and tools I'm proficient in:
 
-Python
-JavaScript
-HTML/CSS
+Python -
+JavaScript -
+HTML/CSS -
 Git
 
 🌱 Learning Journey
@@ -28,10 +28,10 @@ Check out some of my recent projects:
 This section is incoming. Narrowing down a fun project idea is a learning process in itself.
 
 📫 Let's Connect!
-LinkedIn: [LinkedIn](www.linkedin.com/in/tim-crow-537716a8)
-Twitter: [Twitter](https://twitter.com/sarobii21_c) 
-Email: [Email](mailto:tcrow1985@gmail.com)
+[LinkedIn](www.linkedin.com/in/tim-crow-537716a8) -
+[Twitter](https://twitter.com/sarobii21_c) -
+[Email](mailto:tcrow1985@gmail.com)
 Feel free to connect or reach out for collaborations, discussions, or just to say hello! Let's build something amazing together. 😊
 
-🌟 Fun Fact
+🌟 Fun Fact:
 When I'm not coding, you'll likely find me hiking in the great outdoors or planning my next travel adventure with my family. My two boys, ages 3 and 5, are my fearless companions, always ready to explore the world with boundless curiosity and enthusiasm. They believe every day is an adventure waiting to unfold, and they remind me that the greatest adventures often begin right in our own backyard!

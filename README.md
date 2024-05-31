@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm Tim, a developer exploring what technology and creativity can do to change the world around me. I know just enough to be dangerous 😄. Welcome to my GitHub profile!
+I'm Tim, a developer exploring what technology and creativity can do to change the world around me. I know just enough to be dangerous! Mostly to myself 😄. Welcome to my GitHub profile!
 
 🚀 Currently
 🛠️ I'm workshopping ideas for a fun new project. If you have any cool suggestions, please feel free to reach out!

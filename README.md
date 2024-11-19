@@ -34,4 +34,4 @@ This section is incoming. Narrowing down a fun project idea is a learning proces
 Feel free to connect or reach out for collaborations, discussions, or just to say hello! Let's build something amazing together. 😊
 
 🌟 Fun Fact:
-When I'm not coding, you'll likely find me hiking in the great outdoors or planning my next travel adventure with my family. My two boys, ages 3 and 5, are my fearless companions, always ready to explore the world with boundless curiosity and enthusiasm. They believe every day is an adventure waiting to unfold, and they remind me that the greatest adventures often begin right in our own backyard!
+When I'm not coding, you'll likely find me hiking in the great outdoors or planning my next travel adventure with my family. My two boys, ages 4 and 6, are my fearless companions, always ready to explore the world with boundless curiosity and enthusiasm. They believe every day is an adventure waiting to unfold, and they remind me that the greatest adventures often begin right in our own backyard!

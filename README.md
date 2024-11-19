@@ -1,11 +1,13 @@
 ### Hello 👋
 I'm Tim, a developer exploring what technology and creativity can do to change the world around me. I know just enough to be dangerous! Mostly to myself 😄. Welcome to my GitHub profile!
 
-🚀 Currently
+🚀 Currently:
+
 🛠️ I'm workshopping ideas for a fun new project. If you have any cool suggestions, please feel free to reach out!
 🐍 I'm currently diving into Python, uncovering its endless possibilities and refining my skills.
 
-💼 Skills
+💼 Skills:
+
 Here are some technologies and tools I'm proficient in:
 
 Python -
@@ -13,7 +15,8 @@ JavaScript -
 HTML/CSS -
 Git
 
-🌱 Learning Journey
+🌱 Learning Journey:
+
 Constantly learning and growing! Currently, I'm focused on:
 
 Mastering algorithms and data structures
@@ -22,10 +25,12 @@ Exploring Python
 <!--Exploring machine learning concepts
 Improving my web development skills with React.js
 -->
-📚 Projects
+<!--📚 Projects:
+
 Check out some of my recent projects:
 
 This section is incoming. Narrowing down a fun project idea is a learning process in itself.
+-->
 
 📫 Let's Connect!
 [LinkedIn](www.linkedin.com/in/tim-crow-537716a8) -

@@ -3,8 +3,8 @@ I'm Tim, a developer exploring what technology and creativity can do to change t
 
 🚀 Currently:
 
-🛠️ I'm workshopping ideas for a fun new project. If you have any cool suggestions, please feel free to reach out!
-🐍 I'm currently diving into Python, uncovering its endless possibilities and refining my skills.
+🛠️ I'm building an app to assist me in maintaining my social media voice and presence. Fun challenge!
+🐍 I'm currently diving into Python, JavaScript, and TypeScript.
 
 💼 Skills:
 

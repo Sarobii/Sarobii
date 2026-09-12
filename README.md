@@ -1,42 +1,62 @@
-### Hello 👋
-I'm Tim, a developer exploring what technology and creativity can do to change the world around me. I know just enough to be dangerous! Mostly to myself 😄. Welcome to my GitHub profile!
+# Hello 👋
 
-🚀 Currently:
+I'm Tim. I build practical systems that connect business problems with technology.
 
-🛠️ I'm building an app to assist me in maintaining my social media voice and presence. Fun challenge!
-🐍 I'm currently diving into Python, JavaScript, and TypeScript.
+My work sits at the intersection of **business operations, automation, AI, and systems design**. I enjoy taking a messy process, figuring out what needs to happen, and turning it into a working workflow that can be tested, improved, and documented.
 
-💼 Skills:
+I'm particularly interested in how AI and automation can eliminate repetitive work, improve customer experiences, and help businesses recover opportunities that would otherwise be lost.
 
-Here are some technologies and tools I'm proficient in:
+## 🛠️ What I'm Working On
 
-Python -
-JavaScript -
-HTML/CSS -
-Git
+Currently building and experimenting with:
 
-🌱 Learning Journey:
+* AI-powered business workflows and automation
+* CRM and customer lifecycle systems
+* Database reactivation and revenue recovery workflows
+* AI voice and conversational systems
+* Lead capture, qualification, and appointment workflows
+* APIs, webhooks, and integrations
+* Internal tools and dashboards for analyzing business opportunities
 
-Constantly learning and growing! Currently, I'm focused on:
+## 💻 Technologies
 
-Mastering algorithms and data structures
-Exploring Python
+* Python
+* JavaScript
+* HTML/CSS
+* Git
+* GoHighLevel
+* n8n
+* Make
+* Zapier
+* APIs & Webhooks
 
-<!--Exploring machine learning concepts
-Improving my web development skills with React.js
--->
-<!--📚 Projects:
+## 🧠 How I Approach Problems
 
-Check out some of my recent projects:
+I like working from the problem backward:
 
-This section is incoming. Narrowing down a fun project idea is a learning process in itself.
--->
+**Understand the problem → Define the requirements → Design the workflow → Build/configure the solution → Test it → Troubleshoot it → Document it → Improve it**
 
-📫 Let's Connect!
-[LinkedIn](www.linkedin.com/in/tim-crow-537716a8) -
-[Twitter](https://twitter.com/sarobii21_c) -
-[Email](mailto:tcrow1985@gmail.com)
-Feel free to connect or reach out for collaborations, discussions, or just to say hello! Let's build something amazing together. 😊
+I'm less interested in technology for its own sake and more interested in what technology can actually accomplish.
 
-🌟 Fun Fact:
-When I'm not coding, you'll likely find me hiking in the great outdoors or planning my next travel adventure with my family. My two boys, ages 4 and 6, are my fearless companions, always ready to explore the world with boundless curiosity and enthusiasm. They believe every day is an adventure waiting to unfold, and they remind me that the greatest adventures often begin right in our own backyard!
+## 🌱 Always Learning
+
+I'm continuing to strengthen my programming and technical foundation, particularly in:
+
+* Python
+* JavaScript
+* Algorithms and data structures
+* APIs and integrations
+* AI applications
+* Automation architecture
+* Business systems
+
+## 📫 Connect
+
+* [LinkedIn](https://www.linkedin.com/in/tim-crow-537716a8/)
+* [Email](mailto:tcrow1985@gmail.com)
+
+I'm always interested in learning, building, and solving interesting problems.
+
+---
+
+*Build useful things. Solve real problems. Keep learning.*
